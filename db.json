@@ -1,83 +1,57 @@
 {
-  "kind": "books#volumes",
-  "totalItems": 3241,
-  "items": [
-    {
-      "kind": "books#volume",
-      "id": "ad1GBAAAQBAJ",
-      "etag": "4uI42OrHfFs",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/ad1GBAAAQBAJ",
-      "volumeInfo": {
-        "title": "Dragon Rider",
-        "authors": [
-          "Cornelia Funke"
-        ],
-        "publisher": "Chicken House",
-        "publishedDate": "2013-10-03",
-        "description": "Brave young dragon Firedrake and his orphan friend Ben start a perilous journey to the legendary Rim of Heaven. But close behind is a heartless monster who aches to destroy the very last dragons on earth...",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9781909489141"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "190948914X"
-          }
-        ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 332,
-        "printType": "BOOK",
-        "categories": [
-          "Juvenile Fiction"
-        ],
-        "averageRating": 4.5,
-        "ratingsCount": 16,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "preview-1.0.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=ad1GBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=ad1GBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.co.in/books?id=ad1GBAAAQBAJ&printsec=frontcover&dq=dragon+rider&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.co.in/books?id=ad1GBAAAQBAJ&dq=dragon+rider&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Dragon_Rider.html?hl=&id=ad1GBAAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "IN",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "IN",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.co.in/books/download/Dragon_Rider-sample-epub.acsm?id=ad1GBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.co.in/books/download/Dragon_Rider-sample-pdf.acsm?id=ad1GBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=ad1GBAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "Brave young dragon Firedrake and his orphan friend Ben start a perilous journey to the legendary Rim of Heaven. But close behind is a heartless monster who aches to destroy the very last dragons on earth..."
-      }
-    }
-  ]
+   "kind":"books#volumes",
+   "totalItems":3241,
+   "items":[
+      {
+         "kind":"books#volume",
+         "id":"ad1GBAAAQBAJ",
+         "etag":"4uI42OrHfFs",
+         "selfLink":"https://www.googleapis.com/books/v1/volumes/ad1GBAAAQBAJ",
+         "volumeInfo":{
+            "title":"Dragon Rider",
+            "authors":[
+               "Cornelia Funke"
+            ],
+            "publisher":"Chicken House",
+            "publishedDate":"2013-10-03",
+            "description":"Brave young dragon Firedrake and his orphan friend Ben start a perilous journey to the legendary Rim of Heaven. But close behind is a heartless monster who aches to destroy the very last dragons on earth...",
+            "industryIdentifiers":[
+               {
+                  "type":"ISBN_13",
+                  "identifier":"9781909489141"
+               },
+               {
+                  "type":"ISBN_10",
+                  "identifier":"190948914X"
+               }
+            ],
+            "readingModes":{
+               "text":true,
+               "image":true
+            },
+            "pageCount":332,
+            "printType":"BOOK",
+            "categories":[
+               "Juvenile Fiction"
+            ],
+            "averageRating":4.5,
+            "ratingsCount":16,
+            "maturityRating":"NOT_MATURE",
+            "allowAnonLogging":true,
+            "contentVersion":"preview-1.0.0",
+            "panelizationSummary":{
+               "containsEpubBubbles":false,
+               "containsImageBubbles":false
+            },
+            "imageLinks":{
+               "smallThumbnail":"http://books.google.com/books/content?id=ad1GBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+               "thumbnail":"http://books.google.com/books/content?id=ad1GBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language":"en",
+            "previewLink":"http://books.google.co.in/books?id=ad1GBAAAQBAJ&printsec=frontcover&dq=dragon+rider&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink":"http://books.google.co.in/books?id=ad1GBAAAQBAJ&dq=dragon+rider&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink":"https://books.google.com/books/about/Dragon_Rider.html?hl=&id=ad1GBAAAQBAJ"
+         }
+		 }
+   ]
 }
