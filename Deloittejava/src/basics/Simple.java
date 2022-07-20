@@ -8,5 +8,6 @@ public class Simple{
 		System.out.println(c);  
 		Student myStudent = new Student(123, "abdul", 345f); //arguments
 		myStudent.display();
+		//myStudent.
 	}  
 }    
